@@ -1,0 +1,2312 @@
+[
+  {
+    "id": 1,
+    "carat": "0.9",
+    "cut": "Round",
+    "color": "D",
+    "clarity": "FL",
+    "sold": 7740,
+    "createdAt": "2019-09-11T17:00:04.710Z",
+    "updatedAt": "2019-09-11T17:00:04.710Z"
+  },
+  {
+  "id": 2,
+  "carat": "0.9",
+  "cut": "Princess",
+  "color": "D",
+  "clarity": "FL",
+  "sold": 5954,
+  "createdAt": "2019-09-11T17:00:08.707Z",
+  "updatedAt": "2019-09-11T17:00:08.707Z"
+  },
+  {
+  "id": 3,
+  "carat": "0.9",
+  "cut": "Cushion",
+  "color": "D",
+  "clarity": "FL",
+  "sold": 5133,
+  "createdAt": "2019-09-11T17:00:11.027Z",
+  "updatedAt": "2019-09-11T17:00:11.027Z"
+  },
+  {
+  "id": 4,
+  "carat": "0.9",
+  "cut": "Marquise",
+  "color": "D",
+  "clarity": "FL",
+  "sold": 4797,
+  "createdAt": "2019-09-11T17:00:13.149Z",
+  "updatedAt": "2019-09-11T17:00:13.149Z"
+  },
+  {
+  "id": 5,
+  "carat": "0.9",
+  "cut": "Emerald",
+  "color": "D",
+  "clarity": "FL",
+  "sold": 4525,
+  "createdAt": "2019-09-11T17:00:15.355Z",
+  "updatedAt": "2019-09-11T17:00:15.355Z"
+  },
+  {
+  "id": 6,
+  "carat": "0.9",
+  "cut": "Round",
+  "color": "E",
+  "clarity": "FL",
+  "sold": 6849,
+  "createdAt": "2019-09-11T17:00:18.938Z",
+  "updatedAt": "2019-09-11T17:00:18.938Z"
+  },
+  {
+  "id": 7,
+  "carat": "0.9",
+  "cut": "Round",
+  "color": "G",
+  "clarity": "FL",
+  "sold": 5712,
+  "createdAt": "2019-09-11T17:00:20.942Z",
+  "updatedAt": "2019-09-11T17:00:20.942Z"
+  },
+  {
+  "id": 8,
+  "carat": "0.9",
+  "cut": "Round",
+  "color": "F",
+  "clarity": "FL",
+  "sold": 6226,
+  "createdAt": "2019-09-11T17:00:23.094Z",
+  "updatedAt": "2019-09-11T17:00:23.094Z"
+  },
+  {
+  "id": 9,
+  "carat": "0.9",
+  "cut": "Round",
+  "color": "Fancy",
+  "clarity": "FL",
+  "sold": 2330,
+  "createdAt": "2019-09-11T17:00:25.088Z",
+  "updatedAt": "2019-09-11T17:00:25.088Z"
+  },
+  {
+  "id": 10,
+  "carat": "0.9",
+  "cut": "Round",
+  "color": "M-Z",
+  "clarity": "FL",
+  "sold": 2447,
+  "createdAt": "2019-09-11T17:00:27.528Z",
+  "updatedAt": "2019-09-11T17:00:27.528Z"
+  },
+  {
+  "id": 11,
+  "carat": "0.9",
+  "cut": "Round",
+  "color": "L",
+  "clarity": "FL",
+  "sold": 2814,
+  "createdAt": "2019-09-11T17:00:30.046Z",
+  "updatedAt": "2019-09-11T17:00:30.046Z"
+  },
+  {
+  "id": 12,
+  "carat": "0.9",
+  "cut": "Round",
+  "color": "J",
+  "clarity": "FL",
+  "sold": 3963,
+  "createdAt": "2019-09-11T17:00:32.364Z",
+  "updatedAt": "2019-09-11T17:00:32.364Z"
+  },
+  {
+  "id": 13,
+  "carat": "0.9",
+  "cut": "Round",
+  "color": "G",
+  "clarity": "FL",
+  "sold": 5712,
+  "createdAt": "2019-09-11T17:00:33.885Z",
+  "updatedAt": "2019-09-11T17:00:33.885Z"
+  },
+  {
+  "id": 14,
+  "carat": "0.9",
+  "cut": "Round",
+  "color": "G",
+  "clarity": "IF",
+  "sold": 5492,
+  "createdAt": "2019-09-11T17:00:35.704Z",
+  "updatedAt": "2019-09-11T17:00:35.704Z"
+  },
+  {
+  "id": 15,
+  "carat": "0.9",
+  "cut": "Round",
+  "color": "G",
+  "clarity": "VS1",
+  "sold": 4837,
+  "createdAt": "2019-09-11T17:00:37.090Z",
+  "updatedAt": "2019-09-11T17:00:37.090Z"
+  },
+  {
+  "id": 16,
+  "carat": "0.9",
+  "cut": "Round",
+  "color": "G",
+  "clarity": "I2",
+  "sold": 1580,
+  "createdAt": "2019-09-11T17:00:38.662Z",
+  "updatedAt": "2019-09-11T17:00:38.662Z"
+  },
+  {
+  "id": 17,
+  "carat": "0.9",
+  "cut": "Round",
+  "color": "G",
+  "clarity": "I3",
+  "sold": 934,
+  "createdAt": "2019-09-11T17:00:42.342Z",
+  "updatedAt": "2019-09-11T17:00:42.342Z"
+  },
+  {
+  "id": 18,
+  "carat": "0.9",
+  "cut": "Round",
+  "color": "D",
+  "clarity": "SI1",
+  "sold": 5834,
+  "createdAt": "2019-09-11T17:00:45.917Z",
+  "updatedAt": "2019-09-11T17:00:45.917Z"
+  },
+  {
+  "id": 19,
+  "carat": "0.9",
+  "cut": "Princess",
+  "color": "D",
+  "clarity": "SI1",
+  "sold": 4487,
+  "createdAt": "2019-09-11T17:00:47.598Z",
+  "updatedAt": "2019-09-11T17:00:47.598Z"
+  },
+  {
+  "id": 20,
+  "carat": "0.9",
+  "cut": "Princess",
+  "color": "E",
+  "clarity": "SI1",
+  "sold": 3972,
+  "createdAt": "2019-09-11T17:00:49.432Z",
+  "updatedAt": "2019-09-11T17:00:49.432Z"
+  },
+  {
+  "id": 21,
+  "carat": "0.9",
+  "cut": "Princess",
+  "color": "I",
+  "clarity": "SI1",
+  "sold": 2665,
+  "createdAt": "2019-09-11T17:00:51.145Z",
+  "updatedAt": "2019-09-11T17:00:51.145Z"
+  },
+  {
+  "id": 22,
+  "carat": "0.9",
+  "cut": "Princess",
+  "color": "I",
+  "clarity": "FL",
+  "sold": 3535,
+  "createdAt": "2019-09-11T17:00:54.596Z",
+  "updatedAt": "2019-09-11T17:00:54.596Z"
+  },
+  {
+  "id": 23,
+  "carat": "0.9",
+  "cut": "Princess",
+  "color": "I",
+  "clarity": "VVS2",
+  "sold": 3083,
+  "createdAt": "2019-09-11T17:00:56.530Z",
+  "updatedAt": "2019-09-11T17:00:56.530Z"
+  },
+  {
+  "id": 24,
+  "carat": "0.9",
+  "cut": "Cushion",
+  "color": "I",
+  "clarity": "VVS2",
+  "sold": 2658,
+  "createdAt": "2019-09-11T17:00:58.408Z",
+  "updatedAt": "2019-09-11T17:00:58.408Z"
+  },
+  {
+  "id": 25,
+  "carat": "0.9",
+  "cut": "Cushion",
+  "color": "I",
+  "clarity": "VS2",
+  "sold": 2458,
+  "createdAt": "2019-09-11T17:00:59.797Z",
+  "updatedAt": "2019-09-11T17:00:59.797Z"
+  },
+  {
+  "id": 26,
+  "carat": "0.9",
+  "cut": "Cushion",
+  "color": "I",
+  "clarity": "SI2",
+  "sold": 1997,
+  "createdAt": "2019-09-11T17:01:01.298Z",
+  "updatedAt": "2019-09-11T17:01:01.298Z"
+  },
+  {
+  "id": 27,
+  "carat": "0.9",
+  "cut": "Cushion",
+  "color": "I",
+  "clarity": "I2",
+  "sold": 842,
+  "createdAt": "2019-09-11T17:01:03.370Z",
+  "updatedAt": "2019-09-11T17:01:03.370Z"
+  },
+  {
+  "id": 28,
+  "carat": "0.9",
+  "cut": "Cushion",
+  "color": "D",
+  "clarity": "I2",
+  "sold": 1418,
+  "createdAt": "2019-09-11T17:01:05.746Z",
+  "updatedAt": "2019-09-11T17:01:05.746Z"
+  },
+  {
+  "id": 29,
+  "carat": "0.9",
+  "cut": "Cushion",
+  "color": "D",
+  "clarity": "VS2",
+  "sold": 4141,
+  "createdAt": "2019-09-11T17:01:07.480Z",
+  "updatedAt": "2019-09-11T17:01:07.480Z"
+  },
+  {
+  "id": 30,
+  "carat": "0.9",
+  "cut": "Cushion",
+  "color": "D",
+  "clarity": "VVS1",
+  "sold": 4791,
+  "createdAt": "2019-09-11T17:01:10.232Z",
+  "updatedAt": "2019-09-11T17:01:10.232Z"
+  },
+  {
+  "id": 31,
+  "carat": "0.9",
+  "cut": "Cushion",
+  "color": "G",
+  "clarity": "VVS1",
+  "sold": 3536,
+  "createdAt": "2019-09-11T17:01:11.970Z",
+  "updatedAt": "2019-09-11T17:01:11.970Z"
+  },
+  {
+  "id": 32,
+  "carat": "0.9",
+  "cut": "Cushion",
+  "color": "G",
+  "clarity": "FL",
+  "sold": 3788,
+  "createdAt": "2019-09-11T17:01:13.782Z",
+  "updatedAt": "2019-09-11T17:01:13.782Z"
+  },
+  {
+  "id": 33,
+  "carat": "0.9",
+  "cut": "Cushion",
+  "color": "G",
+  "clarity": "VVS1",
+  "sold": 3536,
+  "createdAt": "2019-09-11T17:01:15.522Z",
+  "updatedAt": "2019-09-11T17:01:15.522Z"
+  },
+  {
+  "id": 34,
+  "carat": "0.9",
+  "cut": "Cushion",
+  "color": "G",
+  "clarity": "IF",
+  "sold": 3642,
+  "createdAt": "2019-09-11T17:01:17.367Z",
+  "updatedAt": "2019-09-11T17:01:17.367Z"
+  },
+  {
+  "id": 35,
+  "carat": "0.9",
+  "cut": "Cushion",
+  "color": "G",
+  "clarity": "SI1",
+  "sold": 2855,
+  "createdAt": "2019-09-11T17:01:19.214Z",
+  "updatedAt": "2019-09-11T17:01:19.214Z"
+  },
+  {
+  "id": 36,
+  "carat": "0.9",
+  "cut": "Cushion",
+  "color": "G",
+  "clarity": "I2",
+  "sold": 1047,
+  "createdAt": "2019-09-11T17:01:21.086Z",
+  "updatedAt": "2019-09-11T17:01:21.086Z"
+  },
+  {
+  "id": 37,
+  "carat": "0.9",
+  "cut": "Marquise",
+  "color": "H",
+  "clarity": "I2",
+  "sold": 889,
+  "createdAt": "2019-09-11T17:01:27.300Z",
+  "updatedAt": "2019-09-11T17:01:27.300Z"
+  },
+  {
+  "id": 38,
+  "carat": "0.9",
+  "cut": "Marquise",
+  "color": "K",
+  "clarity": "I2",
+  "sold": 531,
+  "createdAt": "2019-09-11T17:01:29.026Z",
+  "updatedAt": "2019-09-11T17:01:29.026Z"
+  },
+  {
+  "id": 39,
+  "carat": "0.9",
+  "cut": "Marquise",
+  "color": "K",
+  "clarity": "VS2",
+  "sold": 1547,
+  "createdAt": "2019-09-11T17:01:30.529Z",
+  "updatedAt": "2019-09-11T17:01:30.529Z"
+  },
+  {
+  "id": 40,
+  "carat": "0.9",
+  "cut": "Marquise",
+  "color": "K",
+  "clarity": "IF",
+  "sold": 1844,
+  "createdAt": "2019-09-11T17:01:32.123Z",
+  "updatedAt": "2019-09-11T17:01:32.123Z"
+  },
+  {
+  "id": 41,
+  "carat": "0.9",
+  "cut": "Marquise",
+  "color": "D",
+  "clarity": "IF",
+  "sold": 4611,
+  "createdAt": "2019-09-11T17:01:33.911Z",
+  "updatedAt": "2019-09-11T17:01:33.911Z"
+  },
+  {
+  "id": 42,
+  "carat": "0.9",
+  "cut": "Marquise",
+  "color": "E",
+  "clarity": "IF",
+  "sold": 4081,
+  "createdAt": "2019-09-11T17:01:35.784Z",
+  "updatedAt": "2019-09-11T17:01:35.784Z"
+  },
+  {
+  "id": 43,
+  "carat": "0.9",
+  "cut": "Marquise",
+  "color": "G",
+  "clarity": "IF",
+  "sold": 3404,
+  "createdAt": "2019-09-11T17:01:37.241Z",
+  "updatedAt": "2019-09-11T17:01:37.241Z"
+  },
+  {
+  "id": 44,
+  "carat": "0.9",
+  "cut": "Marquise",
+  "color": "I",
+  "clarity": "IF",
+  "sold": 2738,
+  "createdAt": "2019-09-11T17:01:38.801Z",
+  "updatedAt": "2019-09-11T17:01:38.801Z"
+  },
+  {
+  "id": 45,
+  "carat": "0.9",
+  "cut": "Marquise",
+  "color": "I",
+  "clarity": "VVS1",
+  "sold": 2658,
+  "createdAt": "2019-09-11T17:01:40.578Z",
+  "updatedAt": "2019-09-11T17:01:40.578Z"
+  },
+  {
+  "id": 46,
+  "carat": "0.9",
+  "cut": "Marquise",
+  "color": "I",
+  "clarity": "VS2",
+  "sold": 2298,
+  "createdAt": "2019-09-11T17:01:42.664Z",
+  "updatedAt": "2019-09-11T17:01:42.664Z"
+  },
+  {
+  "id": 47,
+  "carat": "0.9",
+  "cut": "Marquise",
+  "color": "I",
+  "clarity": "I1",
+  "sold": 1290,
+  "createdAt": "2019-09-11T17:01:44.255Z",
+  "updatedAt": "2019-09-11T17:01:44.255Z"
+  },
+  {
+  "id": 48,
+  "carat": "0.9",
+  "cut": "Marquise",
+  "color": "K",
+  "clarity": "I1",
+  "sold": 869,
+  "createdAt": "2019-09-11T17:01:46.241Z",
+  "updatedAt": "2019-09-11T17:01:46.241Z"
+  },
+  {
+  "id": 49,
+  "carat": "0.9",
+  "cut": "Marquise",
+  "color": "K",
+  "clarity": "I3",
+  "sold": 313,
+  "createdAt": "2019-09-11T17:01:47.848Z",
+  "updatedAt": "2019-09-11T17:01:47.848Z"
+  },
+  {
+  "id": 50,
+  "carat": "0.9",
+  "cut": "Marquise",
+  "color": "K",
+  "clarity": "VS1",
+  "sold": 1623,
+  "createdAt": "2019-09-11T17:01:50.045Z",
+  "updatedAt": "2019-09-11T17:01:50.045Z"
+  },
+  {
+  "id": 51,
+  "carat": "0.9",
+  "cut": "Marquise",
+  "color": "H",
+  "clarity": "VS1",
+  "sold": 2724,
+  "createdAt": "2019-09-11T17:01:52.115Z",
+  "updatedAt": "2019-09-11T17:01:52.115Z"
+  },
+  {
+  "id": 52,
+  "carat": "0.9",
+  "cut": "Princess",
+  "color": "H",
+  "clarity": "VS1",
+  "sold": 3382,
+  "createdAt": "2019-09-11T17:01:54.156Z",
+  "updatedAt": "2019-09-11T17:01:54.156Z"
+  },
+  {
+  "id": 53,
+  "carat": "0.5",
+  "cut": "Round",
+  "color": "D",
+  "clarity": "FL",
+  "sold": 2389,
+  "createdAt": "2019-09-11T17:04:44.746Z",
+  "updatedAt": "2019-09-11T17:04:44.746Z"
+  },
+  {
+  "id": 54,
+  "carat": "0.5",
+  "cut": "Princess",
+  "color": "D",
+  "clarity": "FL",
+  "sold": 1838,
+  "createdAt": "2019-09-11T17:04:46.809Z",
+  "updatedAt": "2019-09-11T17:04:46.809Z"
+  },
+  {
+  "id": 55,
+  "carat": "0.5",
+  "cut": "Cushion",
+  "color": "D",
+  "clarity": "FL",
+  "sold": 1584,
+  "createdAt": "2019-09-11T17:04:48.328Z",
+  "updatedAt": "2019-09-11T17:04:48.328Z"
+  },
+  {
+  "id": 56,
+  "carat": "0.5",
+  "cut": "Emerald",
+  "color": "D",
+  "clarity": "FL",
+  "sold": 1397,
+  "createdAt": "2019-09-11T17:04:51.553Z",
+  "updatedAt": "2019-09-11T17:04:51.553Z"
+  },
+  {
+  "id": 57,
+  "carat": "0.5",
+  "cut": "Princess",
+  "color": "I",
+  "clarity": "FL",
+  "sold": 1091,
+  "createdAt": "2019-09-11T17:04:55.730Z",
+  "updatedAt": "2019-09-11T17:04:55.730Z"
+  },
+  {
+  "id": 58,
+  "carat": "0.5",
+  "cut": "Princess",
+  "color": "I",
+  "clarity": "VVS1",
+  "sold": 1018,
+  "createdAt": "2019-09-11T17:04:57.356Z",
+  "updatedAt": "2019-09-11T17:04:57.356Z"
+  },
+  {
+  "id": 59,
+  "carat": "0.5",
+  "cut": "Princess",
+  "color": "I",
+  "clarity": "VS2",
+  "sold": 880,
+  "createdAt": "2019-09-11T17:04:58.910Z",
+  "updatedAt": "2019-09-11T17:04:58.910Z"
+  },
+  {
+  "id": 60,
+  "carat": "0.5",
+  "cut": "Princess",
+  "color": "I",
+  "clarity": "I1",
+  "sold": 494,
+  "createdAt": "2019-09-11T17:05:00.446Z",
+  "updatedAt": "2019-09-11T17:05:00.446Z"
+  },
+  {
+  "id": 61,
+  "carat": "0.5",
+  "cut": "Princess",
+  "color": "I",
+  "clarity": "I3",
+  "sold": 178,
+  "createdAt": "2019-09-11T17:05:02.129Z",
+  "updatedAt": "2019-09-11T17:05:02.129Z"
+  },
+  {
+  "id": 62,
+  "carat": "0.5",
+  "cut": "Emerald",
+  "color": "I",
+  "clarity": "I3",
+  "sold": 136,
+  "createdAt": "2019-09-11T17:05:05.224Z",
+  "updatedAt": "2019-09-11T17:05:05.224Z"
+  },
+  {
+  "id": 63,
+  "carat": "0.5",
+  "cut": "Emerald",
+  "color": "D",
+  "clarity": "I3",
+  "sold": 228,
+  "createdAt": "2019-09-11T17:05:07.251Z",
+  "updatedAt": "2019-09-11T17:05:07.251Z"
+  },
+  {
+  "id": 64,
+  "carat": "0.5",
+  "cut": "Emerald",
+  "color": "D",
+  "clarity": "FL",
+  "sold": 1397,
+  "createdAt": "2019-09-11T17:05:09.019Z",
+  "updatedAt": "2019-09-11T17:05:09.019Z"
+  },
+  {
+  "id": 65,
+  "carat": "0.5",
+  "cut": "Emerald",
+  "color": "D",
+  "clarity": "VS2",
+  "sold": 1127,
+  "createdAt": "2019-09-11T17:05:11.086Z",
+  "updatedAt": "2019-09-11T17:05:11.086Z"
+  },
+  {
+  "id": 66,
+  "carat": "0.5",
+  "cut": "Emerald",
+  "color": "D",
+  "clarity": "I2",
+  "sold": 386,
+  "createdAt": "2019-09-11T17:05:12.816Z",
+  "updatedAt": "2019-09-11T17:05:12.816Z"
+  },
+  {
+  "id": 67,
+  "carat": "0.5",
+  "cut": "Emerald",
+  "color": "I",
+  "clarity": "I2",
+  "sold": 229,
+  "createdAt": "2019-09-11T17:05:14.538Z",
+  "updatedAt": "2019-09-11T17:05:14.538Z"
+  },
+  {
+  "id": 68,
+  "carat": "0.5",
+  "cut": "Marquise",
+  "color": "L",
+  "clarity": "I2",
+  "sold": 149,
+  "createdAt": "2019-09-11T17:05:17.659Z",
+  "updatedAt": "2019-09-11T17:05:17.659Z"
+  },
+  {
+  "id": 69,
+  "carat": "0.7",
+  "cut": "Marquise",
+  "color": "L",
+  "clarity": "VVS2",
+  "sold": 920,
+  "createdAt": "2019-09-11T17:05:24.360Z",
+  "updatedAt": "2019-09-11T17:05:24.360Z"
+  },
+  {
+  "id": 70,
+  "carat": "0.7",
+  "cut": "Round",
+  "color": "L",
+  "clarity": "VVS2",
+  "sold": 1484,
+  "createdAt": "2019-09-11T17:05:26.769Z",
+  "updatedAt": "2019-09-11T17:05:26.769Z"
+  },
+  {
+  "id": 71,
+  "carat": "0.7",
+  "cut": "Round",
+  "color": "E",
+  "clarity": "VVS2",
+  "sold": 3614,
+  "createdAt": "2019-09-11T17:05:28.437Z",
+  "updatedAt": "2019-09-11T17:05:28.437Z"
+  },
+  {
+  "id": 72,
+  "carat": "0.7",
+  "cut": "Round",
+  "color": "E",
+  "clarity": "SI1",
+  "sold": 3124,
+  "createdAt": "2019-09-11T17:05:29.770Z",
+  "updatedAt": "2019-09-11T17:05:29.770Z"
+  },
+  {
+  "id": 73,
+  "carat": "0.7",
+  "cut": "Round",
+  "color": "G",
+  "clarity": "SI1",
+  "sold": 2605,
+  "createdAt": "2019-09-11T17:05:31.442Z",
+  "updatedAt": "2019-09-11T17:05:31.442Z"
+  },
+  {
+  "id": 74,
+  "carat": "0.7",
+  "cut": "Round",
+  "color": "G",
+  "clarity": "VS1",
+  "sold": 2926,
+  "createdAt": "2019-09-11T17:05:33.048Z",
+  "updatedAt": "2019-09-11T17:05:33.048Z"
+  },
+  {
+  "id": 75,
+  "carat": "0.7",
+  "cut": "Round",
+  "color": "G",
+  "clarity": "SI1",
+  "sold": 2605,
+  "createdAt": "2019-09-11T17:05:34.500Z",
+  "updatedAt": "2019-09-11T17:05:34.500Z"
+  },
+  {
+  "id": 76,
+  "carat": "0.7",
+  "cut": "Round",
+  "color": "G",
+  "clarity": "I1",
+  "sold": 1566,
+  "createdAt": "2019-09-11T17:05:35.637Z",
+  "updatedAt": "2019-09-11T17:05:35.637Z"
+  },
+  {
+  "id": 77,
+  "carat": "0.7",
+  "cut": "Round",
+  "color": "E",
+  "clarity": "I1",
+  "sold": 1877,
+  "createdAt": "2019-09-11T17:05:37.470Z",
+  "updatedAt": "2019-09-11T17:05:37.470Z"
+  },
+  {
+  "id": 78,
+  "carat": "0.7",
+  "cut": "Princess",
+  "color": "E",
+  "clarity": "I1",
+  "sold": 1444,
+  "createdAt": "2019-09-11T17:05:39.015Z",
+  "updatedAt": "2019-09-11T17:05:39.015Z"
+  },
+  {
+  "id": 79,
+  "carat": "0.7",
+  "cut": "Princess",
+  "color": "G",
+  "clarity": "I1",
+  "sold": 1204,
+  "createdAt": "2019-09-11T17:05:40.404Z",
+  "updatedAt": "2019-09-11T17:05:40.404Z"
+  },
+  {
+  "id": 80,
+  "carat": "0.7",
+  "cut": "Princess",
+  "color": "G",
+  "clarity": "VS1",
+  "sold": 2251,
+  "createdAt": "2019-09-11T17:05:41.969Z",
+  "updatedAt": "2019-09-11T17:05:41.969Z"
+  },
+  {
+  "id": 81,
+  "carat": "0.7",
+  "cut": "Marquise",
+  "color": "G",
+  "clarity": "VS1",
+  "sold": 1813,
+  "createdAt": "2019-09-11T17:05:43.752Z",
+  "updatedAt": "2019-09-11T17:05:43.752Z"
+  },
+  {
+  "id": 82,
+  "carat": "0.7",
+  "cut": "Emerald",
+  "color": "G",
+  "clarity": "SI1",
+  "sold": 1523,
+  "createdAt": "2019-09-11T17:05:47.886Z",
+  "updatedAt": "2019-09-11T17:05:47.886Z"
+  },
+  {
+  "id": 83,
+  "carat": "0.8",
+  "cut": "Emerald",
+  "color": "G",
+  "clarity": "SI1",
+  "sold": 1989,
+  "createdAt": "2019-09-11T17:05:52.452Z",
+  "updatedAt": "2019-09-11T17:05:52.452Z"
+  },
+  {
+  "id": 84,
+  "carat": "0.8",
+  "cut": "Cushion",
+  "color": "G",
+  "clarity": "SI1",
+  "sold": 2256,
+  "createdAt": "2019-09-11T17:05:54.484Z",
+  "updatedAt": "2019-09-11T17:05:54.484Z"
+  },
+  {
+  "id": 85,
+  "carat": "0.8",
+  "cut": "Cushion",
+  "color": "J",
+  "clarity": "SI1",
+  "sold": 1565,
+  "createdAt": "2019-09-11T17:05:55.936Z",
+  "updatedAt": "2019-09-11T17:05:55.936Z"
+  },
+  {
+  "id": 86,
+  "carat": "0.8",
+  "cut": "Cushion",
+  "color": "J",
+  "clarity": "VVS2",
+  "sold": 1811,
+  "createdAt": "2019-09-11T17:05:57.505Z",
+  "updatedAt": "2019-09-11T17:05:57.505Z"
+  },
+  {
+  "id": 87,
+  "carat": "0.8",
+  "cut": "Cushion",
+  "color": "J",
+  "clarity": "IF",
+  "sold": 1996,
+  "createdAt": "2019-09-11T17:05:59.094Z",
+  "updatedAt": "2019-09-11T17:05:59.094Z"
+  },
+  {
+  "id": 88,
+  "carat": "0.8",
+  "cut": "Cushion",
+  "color": "H",
+  "clarity": "IF",
+  "sold": 2616,
+  "createdAt": "2019-09-11T17:06:01.081Z",
+  "updatedAt": "2019-09-11T17:06:01.081Z"
+  },
+  {
+  "id": 89,
+  "carat": "0.8",
+  "cut": "Cushion",
+  "color": "Fancy",
+  "clarity": "IF",
+  "sold": 1174,
+  "createdAt": "2019-09-11T17:06:02.908Z",
+  "updatedAt": "2019-09-11T17:06:02.908Z"
+  },
+  {
+  "id": 90,
+  "carat": "0.8",
+  "cut": "Cushion",
+  "color": "M-Z",
+  "clarity": "IF",
+  "sold": 1233,
+  "createdAt": "2019-09-11T17:06:04.735Z",
+  "updatedAt": "2019-09-11T17:06:04.735Z"
+  },
+  {
+  "id": 91,
+  "carat": "0.8",
+  "cut": "Cushion",
+  "color": "K",
+  "clarity": "IF",
+  "sold": 1559,
+  "createdAt": "2019-09-11T17:06:06.350Z",
+  "updatedAt": "2019-09-11T17:06:06.350Z"
+  },
+  {
+  "id": 92,
+  "carat": "0.8",
+  "cut": "Cushion",
+  "color": "K",
+  "clarity": "VS2",
+  "sold": 1308,
+  "createdAt": "2019-09-11T17:06:07.983Z",
+  "updatedAt": "2019-09-11T17:06:07.983Z"
+  },
+  {
+  "id": 93,
+  "carat": "0.8",
+  "cut": "Cushion",
+  "color": "I",
+  "clarity": "VS2",
+  "sold": 1942,
+  "createdAt": "2019-09-11T17:06:09.651Z",
+  "updatedAt": "2019-09-11T17:06:09.651Z"
+  },
+  {
+  "id": 94,
+  "carat": "0.8",
+  "cut": "Cushion",
+  "color": "F",
+  "clarity": "VS2",
+  "sold": 2632,
+  "createdAt": "2019-09-11T17:06:11.171Z",
+  "updatedAt": "2019-09-11T17:06:11.171Z"
+  },
+  {
+  "id": 95,
+  "carat": "0.8",
+  "cut": "Cushion",
+  "color": "F",
+  "clarity": "VVS2",
+  "sold": 2845,
+  "createdAt": "2019-09-11T17:06:12.563Z",
+  "updatedAt": "2019-09-11T17:06:12.563Z"
+  },
+  {
+  "id": 96,
+  "carat": "0.8",
+  "cut": "Round",
+  "color": "F",
+  "clarity": "VVS2",
+  "sold": 4291,
+  "createdAt": "2019-09-11T17:06:15.154Z",
+  "updatedAt": "2019-09-11T17:06:15.154Z"
+  },
+  {
+  "id": 97,
+  "carat": "1.2",
+  "cut": "Round",
+  "color": "F",
+  "clarity": "VVS2",
+  "sold": 9655,
+  "createdAt": "2019-09-11T17:06:23.681Z",
+  "updatedAt": "2019-09-11T17:06:23.681Z"
+  },
+  {
+  "id": 98,
+  "carat": "1.2",
+  "cut": "Cushion",
+  "color": "F",
+  "clarity": "VVS2",
+  "sold": 6402,
+  "createdAt": "2019-09-11T17:06:25.063Z",
+  "updatedAt": "2019-09-11T17:06:25.063Z"
+  },
+  {
+  "id": 99,
+  "carat": "1.2",
+  "cut": "Cushion",
+  "color": "I",
+  "clarity": "VVS2",
+  "sold": 4725,
+  "createdAt": "2019-09-11T17:06:26.542Z",
+  "updatedAt": "2019-09-11T17:06:26.542Z"
+  },
+  {
+  "id": 100,
+  "carat": "1.2",
+  "cut": "Cushion",
+  "color": "I",
+  "clarity": "VS2",
+  "sold": 4370,
+  "createdAt": "2019-09-11T17:06:27.956Z",
+  "updatedAt": "2019-09-11T17:06:27.956Z"
+  },
+  {
+  "id": 101,
+  "carat": "1.2",
+  "cut": "Cushion",
+  "color": "I",
+  "clarity": "I1",
+  "sold": 2455,
+  "createdAt": "2019-09-11T17:06:29.456Z",
+  "updatedAt": "2019-09-11T17:06:29.456Z"
+  },
+  {
+  "id": 102,
+  "carat": "1.2",
+  "cut": "Cushion",
+  "color": "I",
+  "clarity": "IF",
+  "sold": 5208,
+  "createdAt": "2019-09-11T17:06:31.175Z",
+  "updatedAt": "2019-09-11T17:06:31.175Z"
+  },
+  {
+  "id": 103,
+  "carat": "1.2",
+  "cut": "Cushion",
+  "color": "D",
+  "clarity": "IF",
+  "sold": 8772,
+  "createdAt": "2019-09-11T17:06:33.668Z",
+  "updatedAt": "2019-09-11T17:06:33.668Z"
+  },
+  {
+  "id": 104,
+  "carat": "1.2",
+  "cut": "Princess",
+  "color": "D",
+  "clarity": "IF",
+  "sold": 10175,
+  "createdAt": "2019-09-11T17:06:35.378Z",
+  "updatedAt": "2019-09-11T17:06:35.378Z"
+  },
+  {
+  "id": 105,
+  "carat": "1.2",
+  "cut": "Princess",
+  "color": "D",
+  "clarity": "VS1",
+  "sold": 8961,
+  "createdAt": "2019-09-11T17:06:37.142Z",
+  "updatedAt": "2019-09-11T17:06:37.142Z"
+  },
+  {
+  "id": 106,
+  "carat": "1.2",
+  "cut": "Princess",
+  "color": "I",
+  "clarity": "VS1",
+  "sold": 5319,
+  "createdAt": "2019-09-11T17:06:38.643Z",
+  "updatedAt": "2019-09-11T17:06:38.643Z"
+  },
+  {
+  "id": 107,
+  "carat": "1.2",
+  "cut": "Princess",
+  "color": "M-Z",
+  "clarity": "VS1",
+  "sold": 2832,
+  "createdAt": "2019-09-11T17:06:40.140Z",
+  "updatedAt": "2019-09-11T17:06:40.140Z"
+  },
+  {
+  "id": 108,
+  "carat": "1.2",
+  "cut": "Princess",
+  "color": "L",
+  "clarity": "VS1",
+  "sold": 3257,
+  "createdAt": "2019-09-11T17:06:42.064Z",
+  "updatedAt": "2019-09-11T17:06:42.064Z"
+  },
+  {
+  "id": 109,
+  "carat": "1.2",
+  "cut": "Princess",
+  "color": "J",
+  "clarity": "VS1",
+  "sold": 4586,
+  "createdAt": "2019-09-11T17:06:43.687Z",
+  "updatedAt": "2019-09-11T17:06:43.687Z"
+  },
+  {
+  "id": 110,
+  "carat": "1.2",
+  "cut": "Princess",
+  "color": "J",
+  "clarity": "I2",
+  "sold": 1499,
+  "createdAt": "2019-09-11T17:06:45.195Z",
+  "updatedAt": "2019-09-11T17:06:45.195Z"
+  },
+  {
+  "id": 111,
+  "carat": "1.5",
+  "cut": "Round",
+  "color": "J",
+  "clarity": "I2",
+  "sold": 3044,
+  "createdAt": "2019-09-11T17:06:54.193Z",
+  "updatedAt": "2019-09-11T17:06:54.193Z"
+  },
+  {
+  "id": 112,
+  "carat": "1.5",
+  "cut": "Round",
+  "color": "D",
+  "clarity": "FL",
+  "sold": 21501,
+  "createdAt": "2019-09-11T17:06:58.864Z",
+  "updatedAt": "2019-09-11T17:06:58.864Z"
+  },
+  {
+  "id": 113,
+  "carat": "1.5",
+  "cut": "Round",
+  "color": "D",
+  "clarity": "SI1",
+  "sold": 16205,
+  "createdAt": "2019-09-11T17:07:01.036Z",
+  "updatedAt": "2019-09-11T17:07:01.036Z"
+  },
+  {
+  "id": 114,
+  "carat": "1.5",
+  "cut": "Round",
+  "color": "G",
+  "clarity": "SI1",
+  "sold": 11961,
+  "createdAt": "2019-09-11T17:07:02.494Z",
+  "updatedAt": "2019-09-11T17:07:02.494Z"
+  },
+  {
+  "id": 115,
+  "carat": "1.5",
+  "cut": "Princess",
+  "color": "G",
+  "clarity": "SI1",
+  "sold": 9200,
+  "createdAt": "2019-09-11T17:07:04.514Z",
+  "updatedAt": "2019-09-11T17:07:04.514Z"
+  },
+  {
+  "id": 116,
+  "carat": "1.5",
+  "cut": "Cushion",
+  "color": "G",
+  "clarity": "SI1",
+  "sold": 7931,
+  "createdAt": "2019-09-11T17:07:06.629Z",
+  "updatedAt": "2019-09-11T17:07:06.629Z"
+  },
+  {
+  "id": 117,
+  "carat": "1.5",
+  "cut": "Marquise",
+  "color": "G",
+  "clarity": "SI1",
+  "sold": 7412,
+  "createdAt": "2019-09-11T17:07:08.525Z",
+  "updatedAt": "2019-09-11T17:07:08.525Z"
+  },
+  {
+  "id": 118,
+  "carat": "1.5",
+  "cut": "Emerald",
+  "color": "G",
+  "clarity": "SI1",
+  "sold": 6993,
+  "createdAt": "2019-09-11T17:07:10.502Z",
+  "updatedAt": "2019-09-11T17:07:10.502Z"
+  },
+  {
+  "id": 119,
+  "carat": "1.5",
+  "cut": "Round",
+  "color": "I",
+  "clarity": "SI1",
+  "sold": 9626,
+  "createdAt": "2019-09-11T17:07:17.052Z",
+  "updatedAt": "2019-09-11T17:07:17.052Z"
+  },
+  {
+  "id": 120,
+  "carat": "1.5",
+  "cut": "Princess",
+  "color": "I",
+  "clarity": "SI1",
+  "sold": 7403,
+  "createdAt": "2019-09-11T17:07:18.758Z",
+  "updatedAt": "2019-09-11T17:07:18.758Z"
+  },
+  {
+  "id": 121,
+  "carat": "1.5",
+  "cut": "Cushion",
+  "color": "I",
+  "clarity": "SI1",
+  "sold": 6383,
+  "createdAt": "2019-09-11T17:07:20.607Z",
+  "updatedAt": "2019-09-11T17:07:20.607Z"
+  },
+  {
+  "id": 122,
+  "carat": "1.5",
+  "cut": "Marquise",
+  "color": "I",
+  "clarity": "SI1",
+  "sold": 5965,
+  "createdAt": "2019-09-11T17:07:22.809Z",
+  "updatedAt": "2019-09-11T17:07:22.809Z"
+  },
+  {
+  "id": 123,
+  "carat": "1.5",
+  "cut": "Emerald",
+  "color": "I",
+  "clarity": "SI1",
+  "sold": 5627,
+  "createdAt": "2019-09-11T17:07:24.478Z",
+  "updatedAt": "2019-09-11T17:07:24.478Z"
+  },
+  {
+  "id": 124,
+  "carat": "1.5",
+  "cut": "Emerald",
+  "color": "K",
+  "clarity": "SI1",
+  "sold": 3789,
+  "createdAt": "2019-09-11T17:07:25.893Z",
+  "updatedAt": "2019-09-11T17:07:25.893Z"
+  },
+  {
+  "id": 125,
+  "carat": "1.5",
+  "cut": "Emerald",
+  "color": "K",
+  "clarity": "SI2",
+  "sold": 3294,
+  "createdAt": "2019-09-11T17:07:27.199Z",
+  "updatedAt": "2019-09-11T17:07:27.199Z"
+  },
+  {
+  "id": 126,
+  "carat": "1.5",
+  "cut": "Emerald",
+  "color": "K",
+  "clarity": "FL",
+  "sold": 5027,
+  "createdAt": "2019-09-11T17:07:29.240Z",
+  "updatedAt": "2019-09-11T17:07:29.240Z"
+  },
+  {
+  "id": 127,
+  "carat": "1.5",
+  "cut": "Emerald",
+  "color": "L",
+  "clarity": "FL",
+  "sold": 4570,
+  "createdAt": "2019-09-11T17:07:31.105Z",
+  "updatedAt": "2019-09-11T17:07:31.105Z"
+  },
+  {
+  "id": 128,
+  "carat": "1.5",
+  "cut": "Emerald",
+  "color": "D",
+  "clarity": "FL",
+  "sold": 12571,
+  "createdAt": "2019-09-11T17:07:33.051Z",
+  "updatedAt": "2019-09-11T17:07:33.051Z"
+  },
+  {
+  "id": 129,
+  "carat": "1.5",
+  "cut": "Emerald",
+  "color": "D",
+  "clarity": "SI1",
+  "sold": 9475,
+  "createdAt": "2019-09-11T17:07:34.744Z",
+  "updatedAt": "2019-09-11T17:07:34.744Z"
+  },
+  {
+  "id": 130,
+  "carat": "1.5",
+  "cut": "Emerald",
+  "color": "D",
+  "clarity": "I2",
+  "sold": 3474,
+  "createdAt": "2019-09-11T17:07:36.683Z",
+  "updatedAt": "2019-09-11T17:07:36.683Z"
+  },
+  {
+  "id": 131,
+  "carat": "1.5",
+  "cut": "Marquise",
+  "color": "D",
+  "clarity": "I2",
+  "sold": 3683,
+  "createdAt": "2019-09-11T17:07:41.116Z",
+  "updatedAt": "2019-09-11T17:07:41.116Z"
+  },
+  {
+  "id": 132,
+  "carat": "1.5",
+  "cut": "Marquise",
+  "color": "K",
+  "clarity": "I2",
+  "sold": 1474,
+  "createdAt": "2019-09-11T17:07:42.889Z",
+  "updatedAt": "2019-09-11T17:07:42.889Z"
+  },
+  {
+  "id": 133,
+  "carat": "1.5",
+  "cut": "Marquise",
+  "color": "K",
+  "clarity": "VVS2",
+  "sold": 4649,
+  "createdAt": "2019-09-11T17:07:44.437Z",
+  "updatedAt": "2019-09-11T17:07:44.437Z"
+  },
+  {
+  "id": 134,
+  "carat": "1.5",
+  "cut": "Marquise",
+  "color": "K",
+  "clarity": "FL",
+  "sold": 5328,
+  "createdAt": "2019-09-11T17:07:46.388Z",
+  "updatedAt": "2019-09-11T17:07:46.388Z"
+  },
+  {
+  "id": 135,
+  "carat": "1.1",
+  "cut": "Marquise",
+  "color": "K",
+  "clarity": "FL",
+  "sold": 2865,
+  "createdAt": "2019-09-11T17:07:57.165Z",
+  "updatedAt": "2019-09-11T17:07:57.165Z"
+  },
+  {
+  "id": 136,
+  "carat": "1.1",
+  "cut": "Princess",
+  "color": "K",
+  "clarity": "FL",
+  "sold": 3556,
+  "createdAt": "2019-09-11T17:07:59.253Z",
+  "updatedAt": "2019-09-11T17:07:59.253Z"
+  },
+  {
+  "id": 137,
+  "carat": "1.1",
+  "cut": "Princess",
+  "color": "H",
+  "clarity": "FL",
+  "sold": 5967,
+  "createdAt": "2019-09-11T17:08:01.121Z",
+  "updatedAt": "2019-09-11T17:08:01.121Z"
+  },
+  {
+  "id": 138,
+  "carat": "1.1",
+  "cut": "Princess",
+  "color": "H",
+  "clarity": "VVS2",
+  "sold": 5204,
+  "createdAt": "2019-09-11T17:08:03.170Z",
+  "updatedAt": "2019-09-11T17:08:03.170Z"
+  },
+  {
+  "id": 139,
+  "carat": "1.1",
+  "cut": "Princess",
+  "color": "H",
+  "clarity": "SI2",
+  "sold": 3910,
+  "createdAt": "2019-09-11T17:08:04.822Z",
+  "updatedAt": "2019-09-11T17:08:04.822Z"
+  },
+  {
+  "id": 140,
+  "carat": "1.1",
+  "cut": "Princess",
+  "color": "K",
+  "clarity": "SI2",
+  "sold": 2330,
+  "createdAt": "2019-09-11T17:08:06.361Z",
+  "updatedAt": "2019-09-11T17:08:06.361Z"
+  },
+  {
+  "id": 141,
+  "carat": "1.1",
+  "cut": "Princess",
+  "color": "K",
+  "clarity": "I2",
+  "sold": 984,
+  "createdAt": "2019-09-11T17:08:07.781Z",
+  "updatedAt": "2019-09-11T17:08:07.781Z"
+  },
+  {
+  "id": 142,
+  "carat": "1.1",
+  "cut": "Marquise",
+  "color": "K",
+  "clarity": "I2",
+  "sold": 793,
+  "createdAt": "2019-09-11T17:08:09.669Z",
+  "updatedAt": "2019-09-11T17:08:09.669Z"
+  },
+  {
+  "id": 143,
+  "carat": "1.1",
+  "cut": "Round",
+  "color": "K",
+  "clarity": "I2",
+  "sold": 1279,
+  "createdAt": "2019-09-11T17:08:11.238Z",
+  "updatedAt": "2019-09-11T17:08:11.238Z"
+  },
+  {
+  "id": 144,
+  "carat": "0.84",
+  "cut": "Round",
+  "color": "K",
+  "clarity": "I2",
+  "sold": 746,
+  "createdAt": "2019-09-11T17:08:30.096Z",
+  "updatedAt": "2019-09-11T17:08:30.096Z"
+  },
+  {
+  "id": 145,
+  "carat": "0.84",
+  "cut": "Marquise",
+  "color": "K",
+  "clarity": "I2",
+  "sold": 462,
+  "createdAt": "2019-09-11T17:08:31.524Z",
+  "updatedAt": "2019-09-11T17:08:31.524Z"
+  },
+  {
+  "id": 146,
+  "carat": "0.84",
+  "cut": "Marquise",
+  "color": "M-Z",
+  "clarity": "I2",
+  "sold": 365,
+  "createdAt": "2019-09-11T17:08:33.118Z",
+  "updatedAt": "2019-09-11T17:08:33.118Z"
+  },
+  {
+  "id": 147,
+  "carat": "0.84",
+  "cut": "Princess",
+  "color": "M-Z",
+  "clarity": "I2",
+  "sold": 453,
+  "createdAt": "2019-09-11T17:08:35.172Z",
+  "updatedAt": "2019-09-11T17:08:35.172Z"
+  },
+  {
+  "id": 148,
+  "carat": "0.84",
+  "cut": "Princess",
+  "color": "M-Z",
+  "clarity": "SI2",
+  "sold": 1074,
+  "createdAt": "2019-09-11T17:08:36.572Z",
+  "updatedAt": "2019-09-11T17:08:36.572Z"
+  },
+  {
+  "id": 149,
+  "carat": "0.84",
+  "cut": "Princess",
+  "color": "J",
+  "clarity": "VVS2",
+  "sold": 2315,
+  "createdAt": "2019-09-11T17:08:39.224Z",
+  "updatedAt": "2019-09-11T17:08:39.224Z"
+  },
+  {
+  "id": 150,
+  "carat": "0.84",
+  "cut": "Princess",
+  "color": "D",
+  "clarity": "SI1",
+  "sold": 3909,
+  "createdAt": "2019-09-11T17:08:42.107Z",
+  "updatedAt": "2019-09-11T17:08:42.107Z"
+  },
+  {
+  "id": 151,
+  "carat": "0.84",
+  "cut": "Cushion",
+  "color": "D",
+  "clarity": "SI1",
+  "sold": 3370,
+  "createdAt": "2019-09-11T17:08:44.108Z",
+  "updatedAt": "2019-09-11T17:08:44.108Z"
+  },
+  {
+  "id": 152,
+  "carat": "0.84",
+  "cut": "Cushion",
+  "color": "D",
+  "clarity": "VS1",
+  "sold": 3786,
+  "createdAt": "2019-09-11T17:08:45.477Z",
+  "updatedAt": "2019-09-11T17:08:45.477Z"
+  },
+  {
+  "id": 153,
+  "carat": "0.84",
+  "cut": "Cushion",
+  "color": "J",
+  "clarity": "VS1",
+  "sold": 1938,
+  "createdAt": "2019-09-11T17:08:47.120Z",
+  "updatedAt": "2019-09-11T17:08:47.120Z"
+  },
+  {
+  "id": 154,
+  "carat": "0.84",
+  "cut": "Marquise",
+  "color": "J",
+  "clarity": "VS1",
+  "sold": 1811,
+  "createdAt": "2019-09-11T17:08:48.916Z",
+  "updatedAt": "2019-09-11T17:08:48.916Z"
+  },
+  {
+  "id": 155,
+  "carat": "0.88",
+  "cut": "Marquise",
+  "color": "J",
+  "clarity": "VS1",
+  "sold": 1987,
+  "createdAt": "2019-09-11T17:08:52.219Z",
+  "updatedAt": "2019-09-11T17:08:52.219Z"
+  },
+  {
+  "id": 156,
+  "carat": "0.95",
+  "cut": "Princess",
+  "color": "D",
+  "clarity": "FL",
+  "sold": 6634,
+  "createdAt": "2019-09-11T17:41:36.051Z",
+  "updatedAt": "2019-09-11T17:41:36.051Z"
+  },
+  {
+  "id": 157,
+  "carat": "0.95",
+  "cut": "Princess",
+  "color": "G",
+  "clarity": "FL",
+  "sold": 4896,
+  "createdAt": "2019-09-11T17:41:37.619Z",
+  "updatedAt": "2019-09-11T17:41:37.619Z"
+  },
+  {
+  "id": 158,
+  "carat": "0.95",
+  "cut": "Princess",
+  "color": "G",
+  "clarity": "VVS2",
+  "sold": 4270,
+  "createdAt": "2019-09-11T17:41:39.089Z",
+  "updatedAt": "2019-09-11T17:41:39.089Z"
+  },
+  {
+  "id": 159,
+  "carat": "0.99",
+  "cut": "Marquise",
+  "color": "G",
+  "clarity": "I1",
+  "sold": 1941,
+  "createdAt": "2019-09-11T17:42:01.062Z",
+  "updatedAt": "2019-09-11T17:42:01.062Z"
+  },
+  {
+  "id": 160,
+  "carat": "0.99",
+  "cut": "Marquise",
+  "color": "I",
+  "clarity": "I1",
+  "sold": 1561,
+  "createdAt": "2019-09-11T17:42:02.689Z",
+  "updatedAt": "2019-09-11T17:42:02.689Z"
+  },
+  {
+  "id": 161,
+  "carat": "0.99",
+  "cut": "Marquise",
+  "color": "L",
+  "clarity": "I1",
+  "sold": 956,
+  "createdAt": "2019-09-11T17:42:04.349Z",
+  "updatedAt": "2019-09-11T17:42:04.349Z"
+  },
+  {
+  "id": 162,
+  "carat": "0.99",
+  "cut": "Marquise",
+  "color": "L",
+  "clarity": "I3",
+  "sold": 345,
+  "createdAt": "2019-09-11T17:42:06.219Z",
+  "updatedAt": "2019-09-11T17:42:06.219Z"
+  },
+  {
+  "id": 163,
+  "carat": "0.99",
+  "cut": "Marquise",
+  "color": "L",
+  "clarity": "VS2",
+  "sold": 1702,
+  "createdAt": "2019-09-11T17:42:07.713Z",
+  "updatedAt": "2019-09-11T17:42:07.713Z"
+  },
+  {
+  "id": 164,
+  "carat": "0.99",
+  "cut": "Marquise",
+  "color": "L",
+  "clarity": "FL",
+  "sold": 2110,
+  "createdAt": "2019-09-11T17:42:09.507Z",
+  "updatedAt": "2019-09-11T17:42:09.507Z"
+  },
+  {
+  "id": 165,
+  "carat": "0.99",
+  "cut": "Marquise",
+  "color": "L",
+  "clarity": "VVS2",
+  "sold": 1840,
+  "createdAt": "2019-09-11T17:42:11.114Z",
+  "updatedAt": "2019-09-11T17:42:11.114Z"
+  },
+  {
+  "id": 166,
+  "carat": "0.99",
+  "cut": "Marquise",
+  "color": "I",
+  "clarity": "VVS2",
+  "sold": 3006,
+  "createdAt": "2019-09-11T17:42:13.120Z",
+  "updatedAt": "2019-09-11T17:42:13.120Z"
+  },
+  {
+  "id": 167,
+  "carat": "0.99",
+  "cut": "Princess",
+  "color": "I",
+  "clarity": "VVS2",
+  "sold": 3730,
+  "createdAt": "2019-09-11T17:42:14.889Z",
+  "updatedAt": "2019-09-11T17:42:14.889Z"
+  },
+  {
+  "id": 168,
+  "carat": "1.1",
+  "cut": "Princess",
+  "color": "I",
+  "clarity": "VVS2",
+  "sold": 4605,
+  "createdAt": "2019-09-11T17:42:33.764Z",
+  "updatedAt": "2019-09-11T17:42:33.764Z"
+  },
+  {
+  "id": 169,
+  "carat": "1.1",
+  "cut": "Marquise",
+  "color": "I",
+  "clarity": "VVS2",
+  "sold": 3711,
+  "createdAt": "2019-09-11T17:42:35.405Z",
+  "updatedAt": "2019-09-11T17:42:35.405Z"
+  },
+  {
+  "id": 170,
+  "carat": "1.1",
+  "cut": "Marquise",
+  "color": "E",
+  "clarity": "VVS2",
+  "sold": 5531,
+  "createdAt": "2019-09-11T17:42:37.269Z",
+  "updatedAt": "2019-09-11T17:42:37.269Z"
+  },
+  {
+  "id": 171,
+  "carat": "1.1",
+  "cut": "Marquise",
+  "color": "E",
+  "clarity": "FL",
+  "sold": 6342,
+  "createdAt": "2019-09-11T17:42:38.848Z",
+  "updatedAt": "2019-09-11T17:42:38.848Z"
+  },
+  {
+  "id": 172,
+  "carat": "1.1",
+  "cut": "Marquise",
+  "color": "E",
+  "clarity": "VS1",
+  "sold": 5369,
+  "createdAt": "2019-09-11T17:42:40.520Z",
+  "updatedAt": "2019-09-11T17:42:40.520Z"
+  },
+  {
+  "id": 173,
+  "carat": "1.1",
+  "cut": "Marquise",
+  "color": "E",
+  "clarity": "I2",
+  "sold": 1753,
+  "createdAt": "2019-09-11T17:42:42.053Z",
+  "updatedAt": "2019-09-11T17:42:42.053Z"
+  },
+  {
+  "id": 174,
+  "carat": "1.1",
+  "cut": "Marquise",
+  "color": "E",
+  "clarity": "I3",
+  "sold": 1036,
+  "createdAt": "2019-09-11T17:42:44.123Z",
+  "updatedAt": "2019-09-11T17:42:44.123Z"
+  },
+  {
+  "id": 175,
+  "carat": "1.15",
+  "cut": "Round",
+  "color": "E",
+  "clarity": "I3",
+  "sold": 1828,
+  "createdAt": "2019-09-11T17:42:52.351Z",
+  "updatedAt": "2019-09-11T17:42:52.351Z"
+  },
+  {
+  "id": 176,
+  "carat": "1.15",
+  "cut": "Round",
+  "color": "D",
+  "clarity": "I3",
+  "sold": 2066,
+  "createdAt": "2019-09-11T17:42:54.156Z",
+  "updatedAt": "2019-09-11T17:42:54.156Z"
+  },
+  {
+  "id": 177,
+  "carat": "1.15",
+  "cut": "Round",
+  "color": "I",
+  "clarity": "I3",
+  "sold": 1226,
+  "createdAt": "2019-09-11T17:42:55.629Z",
+  "updatedAt": "2019-09-11T17:42:55.629Z"
+  },
+  {
+  "id": 178,
+  "carat": "1.15",
+  "cut": "Round",
+  "color": "I",
+  "clarity": "SI2",
+  "sold": 4916,
+  "createdAt": "2019-09-11T17:42:57.344Z",
+  "updatedAt": "2019-09-11T17:42:57.344Z"
+  },
+  {
+  "id": 179,
+  "carat": "1.15",
+  "cut": "Round",
+  "color": "I",
+  "clarity": "VVS2",
+  "sold": 6544,
+  "createdAt": "2019-09-11T17:42:58.620Z",
+  "updatedAt": "2019-09-11T17:42:58.620Z"
+  },
+  {
+  "id": 180,
+  "carat": "1.15",
+  "cut": "Round",
+  "color": "I",
+  "clarity": "VS2",
+  "sold": 6053,
+  "createdAt": "2019-09-11T17:43:00.681Z",
+  "updatedAt": "2019-09-11T17:43:00.681Z"
+  },
+  {
+  "id": 181,
+  "carat": "1.15",
+  "cut": "Round",
+  "color": "I",
+  "clarity": "I3",
+  "sold": 1226,
+  "createdAt": "2019-09-11T17:43:02.304Z",
+  "updatedAt": "2019-09-11T17:43:02.304Z"
+  },
+  {
+  "id": 182,
+  "carat": "1.15",
+  "cut": "Princess",
+  "color": "I",
+  "clarity": "I3",
+  "sold": 943,
+  "createdAt": "2019-09-11T17:43:04.263Z",
+  "updatedAt": "2019-09-11T17:43:04.263Z"
+  },
+  {
+  "id": 183,
+  "carat": "1.15",
+  "cut": "Princess",
+  "color": "G",
+  "clarity": "I3",
+  "sold": 1173,
+  "createdAt": "2019-09-11T17:43:06.096Z",
+  "updatedAt": "2019-09-11T17:43:06.096Z"
+  },
+  {
+  "id": 184,
+  "carat": "1.15",
+  "cut": "Princess",
+  "color": "G",
+  "clarity": "I1",
+  "sold": 3251,
+  "createdAt": "2019-09-11T17:43:07.732Z",
+  "updatedAt": "2019-09-11T17:43:07.732Z"
+  },
+  {
+  "id": 185,
+  "carat": "1.15",
+  "cut": "Princess",
+  "color": "G",
+  "clarity": "VS2",
+  "sold": 5789,
+  "createdAt": "2019-09-11T17:43:09.329Z",
+  "updatedAt": "2019-09-11T17:43:09.329Z"
+  },
+  {
+  "id": 186,
+  "carat": "1.15",
+  "cut": "Princess",
+  "color": "G",
+  "clarity": "IF",
+  "sold": 6897,
+  "createdAt": "2019-09-11T17:43:10.704Z",
+  "updatedAt": "2019-09-11T17:43:10.704Z"
+  },
+  {
+  "id": 187,
+  "carat": "1.15",
+  "cut": "Princess",
+  "color": "I",
+  "clarity": "IF",
+  "sold": 5549,
+  "createdAt": "2019-09-11T17:43:12.320Z",
+  "updatedAt": "2019-09-11T17:43:12.320Z"
+  },
+  {
+  "id": 188,
+  "carat": "1.15",
+  "cut": "Emerald",
+  "color": "I",
+  "clarity": "IF",
+  "sold": 4217,
+  "createdAt": "2019-09-11T17:43:13.941Z",
+  "updatedAt": "2019-09-11T17:43:13.941Z"
+  },
+  {
+  "id": 189,
+  "carat": "1.4",
+  "cut": "Round",
+  "color": "D",
+  "clarity": "FL",
+  "sold": 18730,
+  "createdAt": "2019-09-11T17:43:27.464Z",
+  "updatedAt": "2019-09-11T17:43:27.464Z"
+  },
+  {
+  "id": 190,
+  "carat": "1.5",
+  "cut": "Round",
+  "color": "D",
+  "clarity": "FL",
+  "sold": 21501,
+  "createdAt": "2019-09-11T17:43:36.775Z",
+  "updatedAt": "2019-09-11T17:43:36.775Z"
+  },
+  {
+  "id": 191,
+  "carat": "1.5",
+  "cut": "Round",
+  "color": "D",
+  "clarity": "FL",
+  "sold": 21501,
+  "createdAt": "2019-09-11T17:43:40.550Z",
+  "updatedAt": "2019-09-11T17:43:40.550Z"
+  },
+  {
+  "id": 192,
+  "carat": "1.5",
+  "cut": "Round",
+  "color": "D",
+  "clarity": "IF",
+  "sold": 20669,
+  "createdAt": "2019-09-11T17:43:43.353Z",
+  "updatedAt": "2019-09-11T17:43:43.353Z"
+  },
+  {
+  "id": 193,
+  "carat": "1.5",
+  "cut": "Round",
+  "color": "D",
+  "clarity": "SI1",
+  "sold": 16205,
+  "createdAt": "2019-09-11T17:43:45.463Z",
+  "updatedAt": "2019-09-11T17:43:45.463Z"
+  },
+  {
+  "id": 194,
+  "carat": "1.5",
+  "cut": "Cushion",
+  "color": "D",
+  "clarity": "SI1",
+  "sold": 10746,
+  "createdAt": "2019-09-11T17:43:47.783Z",
+  "updatedAt": "2019-09-11T17:43:47.783Z"
+  },
+  {
+  "id": 195,
+  "carat": "0.6",
+  "cut": "Cushion",
+  "color": "D",
+  "clarity": "SI1",
+  "sold": 1719,
+  "createdAt": "2019-09-11T17:43:57.369Z",
+  "updatedAt": "2019-09-11T17:43:57.369Z"
+  },
+  {
+  "id": 196,
+  "carat": "0.6",
+  "cut": "Round",
+  "color": "D",
+  "clarity": "SI1",
+  "sold": 2593,
+  "createdAt": "2019-09-11T17:44:00.531Z",
+  "updatedAt": "2019-09-11T17:44:00.531Z"
+  },
+  {
+  "id": 197,
+  "carat": "0.6",
+  "cut": "Round",
+  "color": "J",
+  "clarity": "SI1",
+  "sold": 1328,
+  "createdAt": "2019-09-11T17:44:02.976Z",
+  "updatedAt": "2019-09-11T17:44:02.976Z"
+  },
+  {
+  "id": 198,
+  "carat": "0.6",
+  "cut": "Round",
+  "color": "J",
+  "clarity": "IF",
+  "sold": 1693,
+  "createdAt": "2019-09-11T17:44:04.796Z",
+  "updatedAt": "2019-09-11T17:44:04.796Z"
+  },
+  {
+  "id": 199,
+  "carat": "0.6",
+  "cut": "Round",
+  "color": "J",
+  "clarity": "VS2",
+  "sold": 1421,
+  "createdAt": "2019-09-11T17:44:06.602Z",
+  "updatedAt": "2019-09-11T17:44:06.602Z"
+  },
+  {
+  "id": 200,
+  "carat": "0.6",
+  "cut": "Round",
+  "color": "J",
+  "clarity": "I3",
+  "sold": 288,
+  "createdAt": "2019-09-11T17:44:08.307Z",
+  "updatedAt": "2019-09-11T17:44:08.307Z"
+  },
+  {
+  "id": 201,
+  "carat": "0.5",
+  "cut": "Round",
+  "color": "J",
+  "clarity": "I3",
+  "sold": 200,
+  "createdAt": "2019-09-11T17:44:15.901Z",
+  "updatedAt": "2019-09-11T17:44:15.901Z"
+  },
+  {
+  "id": 202,
+  "carat": "0.5",
+  "cut": "Princess",
+  "color": "J",
+  "clarity": "I3",
+  "sold": 154,
+  "createdAt": "2019-09-11T17:44:17.700Z",
+  "updatedAt": "2019-09-11T17:44:17.700Z"
+  },
+  {
+  "id": 203,
+  "carat": "0.5",
+  "cut": "Princess",
+  "color": "L",
+  "clarity": "I3",
+  "sold": 109,
+  "createdAt": "2019-09-11T17:44:19.490Z",
+  "updatedAt": "2019-09-11T17:44:19.490Z"
+  },
+  {
+  "id": 204,
+  "carat": "0.5",
+  "cut": "Princess",
+  "color": "M-Z",
+  "clarity": "I3",
+  "sold": 95,
+  "createdAt": "2019-09-11T17:44:24.308Z",
+  "updatedAt": "2019-09-11T17:44:24.308Z"
+  },
+  {
+  "id": 205,
+  "carat": "0.5",
+  "cut": "Princess",
+  "color": "M-Z",
+  "clarity": "VS1",
+  "sold": 492,
+  "createdAt": "2019-09-11T17:44:26.970Z",
+  "updatedAt": "2019-09-11T17:44:26.970Z"
+  },
+  {
+  "id": 206,
+  "carat": "0.52",
+  "cut": "Marquise",
+  "color": "M-Z",
+  "clarity": "VS1",
+  "sold": 429,
+  "createdAt": "2019-09-11T17:45:13.962Z",
+  "updatedAt": "2019-09-11T17:45:13.962Z"
+  },
+  {
+  "id": 207,
+  "carat": "0.52",
+  "cut": "Marquise",
+  "color": "H",
+  "clarity": "VS1",
+  "sold": 909,
+  "createdAt": "2019-09-11T17:45:15.703Z",
+  "updatedAt": "2019-09-11T17:45:15.703Z"
+  },
+  {
+  "id": 208,
+  "carat": "0.52",
+  "cut": "Marquise",
+  "color": "H",
+  "clarity": "SI1",
+  "sold": 810,
+  "createdAt": "2019-09-11T17:45:17.335Z",
+  "updatedAt": "2019-09-11T17:45:17.335Z"
+  },
+  {
+  "id": 209,
+  "carat": "0.52",
+  "cut": "Marquise",
+  "color": "H",
+  "clarity": "I3",
+  "sold": 176,
+  "createdAt": "2019-09-11T17:45:18.699Z",
+  "updatedAt": "2019-09-11T17:45:18.699Z"
+  },
+  {
+  "id": 210,
+  "carat": "0.52",
+  "cut": "Marquise",
+  "color": "J",
+  "clarity": "FL",
+  "sold": 820,
+  "createdAt": "2019-09-11T17:45:23.483Z",
+  "updatedAt": "2019-09-11T17:45:23.483Z"
+  },
+  {
+  "id": 211,
+  "carat": "0.52",
+  "cut": "Marquise",
+  "color": "J",
+  "clarity": "VVS1",
+  "sold": 765,
+  "createdAt": "2019-09-11T17:45:25.009Z",
+  "updatedAt": "2019-09-11T17:45:25.009Z"
+  },
+  {
+  "id": 212,
+  "carat": "0.52",
+  "cut": "Marquise",
+  "color": "J",
+  "clarity": "SI2",
+  "sold": 537,
+  "createdAt": "2019-09-11T17:45:27.087Z",
+  "updatedAt": "2019-09-11T17:45:27.087Z"
+  },
+  {
+  "id": 213,
+  "carat": "0.52",
+  "cut": "Marquise",
+  "color": "J",
+  "clarity": "I3",
+  "sold": 134,
+  "createdAt": "2019-09-11T17:45:29.056Z",
+  "updatedAt": "2019-09-11T17:45:29.056Z"
+  },
+  {
+  "id": 214,
+  "carat": "1",
+  "cut": "Marquise",
+  "color": "J",
+  "clarity": "I3",
+  "sold": 496,
+  "createdAt": "2019-09-11T17:45:49.460Z",
+  "updatedAt": "2019-09-11T17:45:49.460Z"
+  },
+  {
+  "id": 215,
+  "carat": "1",
+  "cut": "Princess",
+  "color": "J",
+  "clarity": "I3",
+  "sold": 616,
+  "createdAt": "2019-09-11T17:45:51.809Z",
+  "updatedAt": "2019-09-11T17:45:51.809Z"
+  },
+  {
+  "id": 216,
+  "carat": "1",
+  "cut": "Princess",
+  "color": "J",
+  "clarity": "VS2",
+  "sold": 3035,
+  "createdAt": "2019-09-11T17:45:54.936Z",
+  "updatedAt": "2019-09-11T17:45:54.936Z"
+  },
+  {
+  "id": 217,
+  "carat": "1",
+  "cut": "Round",
+  "color": "J",
+  "clarity": "VS2",
+  "sold": 3946,
+  "createdAt": "2019-09-11T17:46:07.939Z",
+  "updatedAt": "2019-09-11T17:46:07.939Z"
+  },
+  {
+  "id": 218,
+  "carat": "1.45",
+  "cut": "Round",
+  "color": "G",
+  "clarity": "VS2",
+  "sold": 11963,
+  "createdAt": "2019-09-11T20:25:37.574Z",
+  "updatedAt": "2019-09-11T20:25:37.574Z"
+  },
+  {
+  "id": 219,
+  "carat": "1.45",
+  "cut": "Cushion",
+  "color": "G",
+  "clarity": "VS2",
+  "sold": 7933,
+  "createdAt": "2019-09-11T20:25:39.698Z",
+  "updatedAt": "2019-09-11T20:25:39.698Z"
+  },
+  {
+  "id": 220,
+  "carat": "1.45",
+  "cut": "Cushion",
+  "color": "J",
+  "clarity": "VS2",
+  "sold": 5502,
+  "createdAt": "2019-09-11T20:25:41.442Z",
+  "updatedAt": "2019-09-11T20:25:41.442Z"
+  },
+  {
+  "id": 221,
+  "carat": "1.45",
+  "cut": "Cushion",
+  "color": "J",
+  "clarity": "SI2",
+  "sold": 4468,
+  "createdAt": "2019-09-11T20:25:43.239Z",
+  "updatedAt": "2019-09-11T20:25:43.239Z"
+  },
+  {
+  "id": 222,
+  "carat": "1.45",
+  "cut": "Marquise",
+  "color": "J",
+  "clarity": "SI2",
+  "sold": 4176,
+  "createdAt": "2019-09-11T20:25:45.035Z",
+  "updatedAt": "2019-09-11T20:25:45.035Z"
+  },
+  {
+  "id": 223,
+  "carat": "1.45",
+  "cut": "Marquise",
+  "color": "L",
+  "clarity": "SI2",
+  "sold": 2967,
+  "createdAt": "2019-09-11T20:25:46.518Z",
+  "updatedAt": "2019-09-11T20:25:46.518Z"
+  },
+  {
+  "id": 224,
+  "carat": "1.45",
+  "cut": "Marquise",
+  "color": "H",
+  "clarity": "SI2",
+  "sold": 5473,
+  "createdAt": "2019-09-11T20:25:48.540Z",
+  "updatedAt": "2019-09-11T20:25:48.540Z"
+  },
+  {
+  "id": 225,
+  "carat": "1.45",
+  "cut": "Marquise",
+  "color": "H",
+  "clarity": "VVS2",
+  "sold": 7285,
+  "createdAt": "2019-09-11T20:25:50.047Z",
+  "updatedAt": "2019-09-11T20:25:50.047Z"
+  },
+  {
+  "id": 226,
+  "carat": "1.45",
+  "cut": "Round",
+  "color": "L",
+  "clarity": "VVS2",
+  "sold": 6368,
+  "createdAt": "2019-09-11T20:25:53.936Z",
+  "updatedAt": "2019-09-11T20:25:53.936Z"
+  },
+  {
+  "id": 227,
+  "carat": "1.45",
+  "cut": "Round",
+  "color": "L",
+  "clarity": "SI1",
+  "sold": 5506,
+  "createdAt": "2019-09-11T20:25:56.194Z",
+  "updatedAt": "2019-09-11T20:25:56.194Z"
+  },
+  {
+  "id": 228,
+  "carat": "1.45",
+  "cut": "Round",
+  "color": "L",
+  "clarity": "I2",
+  "sold": 2018,
+  "createdAt": "2019-09-11T20:25:58.026Z",
+  "updatedAt": "2019-09-11T20:25:58.026Z"
+  },
+  {
+  "id": 229,
+  "carat": "1.45",
+  "cut": "Cushion",
+  "color": "L",
+  "clarity": "I2",
+  "sold": 1337,
+  "createdAt": "2019-09-11T20:26:00.543Z",
+  "updatedAt": "2019-09-11T20:26:00.543Z"
+  },
+  {
+  "id": 230,
+  "carat": "1.45",
+  "cut": "Cushion",
+  "color": "G",
+  "clarity": "I2",
+  "sold": 2719,
+  "createdAt": "2019-09-11T20:26:02.623Z",
+  "updatedAt": "2019-09-11T20:26:02.623Z"
+  },
+  {
+  "id": 231,
+  "carat": "1.45",
+  "cut": "Cushion",
+  "color": "G",
+  "clarity": "SI2",
+  "sold": 6440,
+  "createdAt": "2019-09-11T20:26:06.729Z",
+  "updatedAt": "2019-09-11T20:26:06.729Z"
+  }
+  ]
