@@ -1,14 +1,22 @@
 {
-  "name": "diamond-api",
+  "name": "worthy-back-end",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "#### Back End:",
+  "main": "app.js",
   "scripts": {
     "start": "nodemon --exec babel-node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DallasBille/worthy-back-end.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DallasBille/worthy-back-end/issues"
+  },
+  "homepage": "https://github.com/DallasBille/worthy-back-end#readme",
   "devDependencies": {
     "babel-preset-env": "^1.7.0",
     "nodemon": "^1.19.2"
@@ -17,10 +25,11 @@
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
     "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "morgan": "^1.9.1",
     "pg": "^7.12.1",
     "pg-hstore": "^2.3.3",
-    "sequelize": "^5.18.1"
+    "sequelize": "^5.18.4"
   }
 }

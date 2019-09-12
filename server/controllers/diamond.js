@@ -1,12 +1,25 @@
 import model from "../models";
-
+import calculatorsAdapter from "../adapters/calculatorsAdapter";
+const {
+  clarityCalculation,
+  colorCalculation,
+  cutCalculation,
+  caratCalculation
+} = calculatorsAdapter;
 const { Diamond } = model;
 class Diamonds {
   static create(req, res) {
-    var diamond = new Diamond(req.body); // the sequelize create method didnt work for this.
+    // Here we are sending each value calculation to the next function.
+    const clarityValue = clarityCalculation(req.body);
+    const colorValue = colorCalculation(clarityValue, req.body);
+    const cutValue = cutCalculation(colorValue, req.body);
+    const finalValue = caratCalculation(cutValue, req.body);
+
+    var diamond = new Diamond(req.body);
+    diamond["sold"] = finalValue; // create a sold field set the value to the final calculation, then save it to our DB.
     diamond.save().then(diamondData =>
       res.status(201).send({
-        message: "Diamond successfully created",
+        message: `Your diamond is worth $${diamondData.sold}`,
         diamondData
       })
     );
