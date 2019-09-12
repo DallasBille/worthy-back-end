@@ -1,6 +1,6 @@
 ## Link to Live Site:
 
-Front End: https://diamond-calculator.herokuapp.com/
+Front End: https://diamond-calculator.herokuapp.com/ (will be linked with a hosted backend supplying API).
 
 #### Back End:
 
