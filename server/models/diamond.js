@@ -1,5 +1,6 @@
 "use strict";
 module.exports = (sequelize, DataTypes) => {
+  console.log("in model");
   const Diamond = sequelize.define(
     "Diamond",
     {
