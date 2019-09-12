@@ -1,5 +1,7 @@
 ## Link to Live Site:
 
+Front End: https://diamond-calculator.herokuapp.com/
+
 #### Back End:
 
 Express.js and Postgres:
@@ -74,4 +76,4 @@ Conditional carat value increases base on cut, color, and clarity factors. This 
 
 ## Conclusion:
 
-This was a really fun exercise that is really easy to nerd out on and get deep into. I know more about diamonds than I ever thought I would. Thanks for the opportunity and I look forward to hearing back.
+This was a really fun exercise that is really easy to nerd out on and get deep into. I know more about diamonds than I ever thought I would.
