@@ -10,7 +10,7 @@ You will need to set up your local Postgres database.
 
 1. Clone Repo
 2. npm install.
-3.
+3. sequelize db:migrate
 
 #### Front-end:
 
